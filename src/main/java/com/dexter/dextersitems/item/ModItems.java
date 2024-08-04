@@ -13,10 +13,14 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item TiaraCore = registerItem("tiara_core", new Item(new FabricItemSettings()));
     public static final Item TiaraCoreFragment = registerItem("tiara_core_fragment", new Item(new FabricItemSettings()));
+    public static final Item PowerStone = registerItem("powerstone", new Item(new FabricItemSettings()));
+    public static final Item CrystalStar = registerItem("crystal_star", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries){
         entries.add(TiaraCore);
         entries.add(TiaraCoreFragment);
+        entries.add(PowerStone);
+        entries.add(CrystalStar);
     }
 
     private static Item registerItem(String name, Item item) {
