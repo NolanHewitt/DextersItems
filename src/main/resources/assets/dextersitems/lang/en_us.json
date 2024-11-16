@@ -1,4 +1,25 @@
 {
   "item.dextersitems.tiara_core": "Tiara Core",
-  "item.dextersitems.tiara_core_fragment": "Tiara Core Fragment"
+  "item.dextersitems.tiara_core_fragment": "Tiara Core Fragment",
+  "item.dextersitems.powerstone": "Power Stone",
+  "item.dextersitems.crystal_star": "Crystal Star",
+  "item.dextersitems.zinc_dust": "Zinc Dust",
+  "item.dextersitems.brass_dust": "Brass Dust",
+  "item.dextersitems.reinforced_elytra": "Reinforced Elytra Component",
+  "item.dextersitems.purified_zinc": "Purified Zinc",
+  "item.dextersitems.zinc_chunk": "Zinc Chunk",
+  "item.dextersitems.tungsten_chunk": "Tungsten Chunk",
+  "item.dextersitems.steel_chunk": "Steel Chunk",
+  "item.dextersitems.electrum_chunk": "Electrum Chunk",
+  "item.dextersitems.bronze_chunk": "Bronze Chunk",
+  "item.dextersitems.brass_chunk": "Brass Chunk",
+  "item.dextersitems.mana_shake": "Mana Shake",
+  "item.dextersitems.terrasteel_shake": "Terrasteel Shake",
+  "item.dextersitems.coconut_shake": "Coconut Shake",
+  "item.dextersitems.ice_shake": "Ice Shake",
+  "item.dextersitems.prickly_pear_juice": "Prickly Pear Juice",
+  "item.dextersitems.duck_meat": "Duck Meat",
+  "item.dextersitems.duck_soup": "Duck Soup",
+  "item.dextersitems.crushed_azalea_flower": "Crushed Azalea Flower",
+  "item.dextersitems.walnut_salad": "Walnut Salad"
 }
